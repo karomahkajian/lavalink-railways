@@ -17,7 +17,7 @@ lavalink:
       http: true
       local: false
     bufferDurationMs: 400
-    youtubePlaylistLoadLimit: 3
+    youtubePlaylistLoadLimit: 8
     youtubeSearchEnabled: true
     soundcloudSearchEnabled: true
     gc-warnings: true
@@ -33,7 +33,7 @@ sentry:
 logging:
   file:
     max-history: 1
-    max-size: 3MB
+    max-size: 5MB
   path: /app/logs/
 
   level:
