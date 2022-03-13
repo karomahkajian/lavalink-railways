@@ -1,13 +1,4 @@
-## lavalink-railways
-
-### Warning
-USE AT YOUR OWN RISK, I DONT TAKE ANY RESPONSBILITY.
-
-### About me
-Personally i dont use railway for lavalink. I use replit instead railway. Why? Because railway sometime being weird, 404 error, randomly disconnect, etc.
-
-### Copyrighted stuff
-Lavalink cant play copyrighted stuff in railway region (If owner of the vids blocked railway region located at) and will not!
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=16D400&size=25&width=770&lines=Spam+Click+SSH+With+CPU)](https://git.io/typing-svg)
 
 
 ## Connecting
